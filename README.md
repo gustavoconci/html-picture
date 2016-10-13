@@ -1,5 +1,5 @@
 # html-picture
-With 695 bytes, this script will make the HTML &lt;picture&gt; work correctly in browsers that do not support the &lt;picture&gt;, &lt;source&gt; and the srcset attribute of &lt;source&gt;.
+With 767 bytes, this script will make the HTML &lt;picture&gt; work correctly in browsers that do not support the &lt;picture&gt;, &lt;source&gt; and the srcset attribute of &lt;source&gt;.
 
 Usage:
 ```html
