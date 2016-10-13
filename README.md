@@ -4,8 +4,8 @@ With 695 bytes, this script will make the HTML &lt;picture&gt; work correctly in
 Usage:
 ```html
 <picture>
-  <source media="(min-width: 768px)" srcset="//placehold.it/768x768">
-  <source media="(min-width: 480px) and (max-width: 767px)" srcset="//placehold.it/480x480">
-  <img src="//placehold.it/290x290">
+  <source media="(min-width: 768px)" srcset="https://placehold.it/768x768">
+  <source media="(min-width: 480px) and (max-width: 767px)" srcset="https://placehold.it/480x480">
+  <img src="https://placehold.it/290x290">
 </picture>
 ```
